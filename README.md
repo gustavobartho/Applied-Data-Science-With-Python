@@ -9,10 +9,10 @@ This course will introduce the learner to the basics of the python programming e
 
 #### This Module main goal are:
 
-* Understand techniques such as lambdas and manipulating csv files
-* Describe common Python functionality and features used for data science
-* Query DataFrame structures for cleaning and processing
-* Explain distributions, sampling, and t-tests
+* Understand techniques such as lambdas and manipulating csv files;
+* Describe common Python functionality and features used for data science;
+* Query DataFrame structures for cleaning and processing;
+* Explain distributions, sampling, and t-tests;
 
 ### Week 1 - Fundamentals of Data Manipulation with Python
 
@@ -20,10 +20,10 @@ In this week you'll get an introduction to the field of data science, review com
 
 #### Week learning objectives:
 
-* Load, manipulate, and select data using numpy, as well as understand the fundamental data types in the numpy ecosystem
-* Show the benefits of vectorization with numpy data
-* Apply regular expressions to string data
-* Demonstrate, at a high level, how regular expression pattern matching is expressed
+* Load, manipulate, and select data using numpy, as well as understand the fundamental data types in the numpy ecosystem;
+* Show the benefits of vectorization with numpy data;
+* Apply regular expressions to string data;
+* Demonstrate, at a high level, how regular expression pattern matching is expressed;
 
 ### Week 2 - Basic Data Processing with Pandas
 
@@ -31,14 +31,14 @@ In this week of the course you'll learn the fundamentals of one of the most impo
 
 #### Week learning objectives:
 
-* Demonstrate how the series class builds on top of numpy datatypes
-* Remember that the series class is a numpy array
-* Demonstrate the basics of how to query a series structure
-* Remember the dataframe as the principle data science structure
-* Define the various features of a dataframe
-* Demonstrate what an axis is in relation to dataframes
-* Demonstrate the difference between the series and dataframe classes
-* Create and use pandas DataFrames to represent raw data
+* Demonstrate how the series class builds on top of numpy datatypes;
+* Remember that the series class is a numpy array;
+* Demonstrate the basics of how to query a series structure;
+* Remember the dataframe as the principle data science structure;
+* Define the various features of a dataframe;
+* Demonstrate what an axis is in relation to dataframes;
+* Demonstrate the difference between the series and dataframe classes;
+* Create and use pandas DataFrames to represent raw data;
 
 ### Week 3 - More Data Processing with Pandas
 
@@ -46,7 +46,7 @@ In this week you'll deepen your understanding of the python pandas library by le
 
 #### Week learning objectives:
 
-* Create and use pandas DataFrames to represent raw data
+* Create and use pandas DataFrames to represent raw data;
 
 ### Week 4 - Answering Questions with Messy Data
 
@@ -54,8 +54,8 @@ In this week of the course you'll be introduced to a variety of statistical tech
 
 #### Week learning objectives:
 
-* Demonstrate basic statistical test knowledge on dataframes in pandas
-* Recognize other kinds of structured data such as networks, graphs, natural language
+* Demonstrate basic statistical test knowledge on dataframes in pandas;
+* Recognize other kinds of structured data such as networks, graphs, natural language;
 
 ---
 ---
@@ -66,10 +66,10 @@ This course will introduce the learner to information visualization basics, with
 
 #### This Module main goal are:
 
-* Describe what makes a good or bad visualization
-* Understand best practices for creating basic charts
-* Identify the functions that are best for particular problems
-* Create a visualization using matplotlib
+* Describe what makes a good or bad visualization;
+* Understand best practices for creating basic charts;
+* Identify the functions that are best for particular problems;
+* Create a visualization using matplotlib;
 
 ### Week 1 - Principles of Information Visualization
 
@@ -77,7 +77,18 @@ In this module, you will get an introduction to principles of information visual
 
 #### Week learning objectives:
 
-* Choose a graphic that displays misleading information
-* Interpret the features of the graphic in order to identify the mechanism(s) that is/are used by the "encoder" to mislead the "decoder"
-* Analyze the graphic and use principles from Alberto Cairo's work to explain how the graphic is misleading
-* Create a radar plot in order to reflect on the complexity of the misleading graphic 
+* Choose a graphic that displays misleading information;
+* Interpret the features of the graphic in order to identify the mechanism(s) that is/are used by the "encoder" to mislead the "decoder";
+* Analyze the graphic and use principles from Alberto Cairo's work to explain how the graphic is misleading;
+* Create a radar plot in order to reflect on the complexity of the misleading graphic;
+
+### Week 2 - Basic Charting
+
+In this module, you will delve into basic charting. For this week’s assignment, you will work with real world CSV weather data. You will manipulate the data to display the minimum and maximum temperature for a range of dates and demonstrate that you know how to create a line graph using matplotlib. Additionally, you will demonstrate the procedure of composite charts, by overlaying a scatter plot of record breaking data for a given year.
+
+#### Week learning objectives:
+
+* Work with real world CSV data;
+* Know how to create a line graph using matplotlib;
+* Manipulate data to get the minimum and maximum temperature;
+* Demonstrate procedure of composite charts;
