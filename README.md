@@ -93,7 +93,7 @@ In this module, you will delve into basic charting. For this week’s assignment
 * Manipulate data to get the minimum and maximum temperature;
 * Demonstrate procedure of composite charts;
 
-### Week 2 - Charting Fundamentals
+### Week 3 - Charting Fundamentals
 
 In this module you will explore charting fundamentals. For this week’s assignment you will work to implement a new visualization technique based on academic research. This assignment is flexible and you can address it using a variety of difficulties - from an easy static image to an interactive chart where users can set ranges of values to be used.
 
@@ -104,3 +104,18 @@ In this module you will explore charting fundamentals. For this week’s assignm
 * Use subplots to combine plots into a single figure;
 * *eate insightful plots such as histograms, box plots, and histograms;
 * Create animated and interactive visualizations;
+
+### Week 4 - Charting Fundamentals
+
+In this module, then everything starts to come together. Your final assignment is entitled “Becoming a Data Scientist.” This assignment requires that you identify at least two publicly accessible datasets from the same region that are consistent across a meaningful dimension. You will state a research question that can be answered using these data sets and then create a visual using matplotlib that addresses your stated research question. You will then be asked to justify how your visual addresses your research question.
+
+#### Week learning objectives:
+
+* Identify two publicly accessible datasets from the same region that are consistent across a meaningful dimension;
+* State a research question that can be answered using two publicly accessible datasets;
+* Create a visual using matplotlib that addresses your stated research question;
+* Justify how the visual addresses your research question;
+
+---
+---
+
