@@ -1,9 +1,13 @@
 # Applied Data Science with Python Specialization Program
 
+Specialization Link: https://www.coursera.org/programs/universidade-de-sao-paulo-br-on-coursera-mvxtw/specializations/data-science-python
+
 ---
 ---
 
 ## Module 1 - Introduction to Data Science in Python
+
+Course Link: https://www.coursera.org/programs/universidade-de-sao-paulo-br-on-coursera-mvxtw/learn/python-data-analysis?specialization=data-science-python
 
 This course will introduce the learner to the basics of the python programming environment, including fundamental python programming techniques such as lambdas, reading and manipulating csv files, and the numpy library. The course will introduce data manipulation and cleaning techniques using the popular python pandas data science library and introduce the abstraction of the Series and DataFrame as the central data structures for data analysis, along with tutorials on how to use functions such as groupby, merge, and pivot tables effectively. By the end of this course, students will be able to take tabular data, clean it, manipulate it, and run basic inferential statistical analyses.
 
@@ -13,6 +17,8 @@ This course will introduce the learner to the basics of the python programming e
 * Describe common Python functionality and features used for data science;
 * Query DataFrame structures for cleaning and processing;
 * Explain distributions, sampling, and t-tests;
+
+---
 
 ### Week 1 - Fundamentals of Data Manipulation with Python
 
@@ -24,6 +30,8 @@ In this week you'll get an introduction to the field of data science, review com
 * Show the benefits of vectorization with numpy data;
 * Apply regular expressions to string data;
 * Demonstrate, at a high level, how regular expression pattern matching is expressed;
+
+---
 
 ### Week 2 - Basic Data Processing with Pandas
 
@@ -39,6 +47,8 @@ In this week of the course you'll learn the fundamentals of one of the most impo
 * Demonstrate what an axis is in relation to dataframes;
 * Demonstrate the difference between the series and dataframe classes;
 * Create and use pandas DataFrames to represent raw data;
+
+---
 
 ### Week 3 - More Data Processing with Pandas
 
@@ -62,6 +72,8 @@ In this week of the course you'll be introduced to a variety of statistical tech
 
 ## Module 2 - Applied Plotting, Charting & Data Representation in Python
 
+Course Link: https://www.coursera.org/programs/universidade-de-sao-paulo-br-on-coursera-mvxtw/learn/python-plotting?specialization=data-science-python
+
 This course will introduce the learner to information visualization basics, with a focus on reporting and charting using the matplotlib library. The course will start with a design and information literacy perspective, touching on what makes a good and bad visualization, and what statistical measures translate into in terms of visualizations. The second week will focus on the technology used to make visualizations in python, matplotlib, and introduce users to best practices when creating basic charts and how to realize design decisions in the framework. The third week will be a tutorial of functionality available in matplotlib, and demonstrate a variety of basic statistical charts helping learners to identify when a particular method is good for a particular problem. The course will end with a discussion of other forms of structuring and visualizing data. 
 
 #### This Module main goal are:
@@ -70,6 +82,8 @@ This course will introduce the learner to information visualization basics, with
 * Understand best practices for creating basic charts;
 * Identify the functions that are best for particular problems;
 * Create a visualization using matplotlib;
+
+---
 
 ### Week 1 - Principles of Information Visualization
 
@@ -82,6 +96,8 @@ In this module, you will get an introduction to principles of information visual
 * Analyze the graphic and use principles from Alberto Cairo's work to explain how the graphic is misleading;
 * Create a radar plot in order to reflect on the complexity of the misleading graphic;
 
+---
+
 ### Week 2 - Basic Charting
 
 In this module, you will delve into basic charting. For this week’s assignment, you will work with real world CSV weather data. You will manipulate the data to display the minimum and maximum temperature for a range of dates and demonstrate that you know how to create a line graph using matplotlib. Additionally, you will demonstrate the procedure of composite charts, by overlaying a scatter plot of record breaking data for a given year.
@@ -92,6 +108,8 @@ In this module, you will delve into basic charting. For this week’s assignment
 * Know how to create a line graph using matplotlib;
 * Manipulate data to get the minimum and maximum temperature;
 * Demonstrate procedure of composite charts;
+
+---
 
 ### Week 3 - Charting Fundamentals
 
@@ -105,6 +123,8 @@ In this module you will explore charting fundamentals. For this week’s assignm
 * *eate insightful plots such as histograms, box plots, and histograms;
 * Create animated and interactive visualizations;
 
+---
+
 ### Week 4 - Charting Fundamentals
 
 In this module, then everything starts to come together. Your final assignment is entitled “Becoming a Data Scientist.” This assignment requires that you identify at least two publicly accessible datasets from the same region that are consistent across a meaningful dimension. You will state a research question that can be answered using these data sets and then create a visual using matplotlib that addresses your stated research question. You will then be asked to justify how your visual addresses your research question.
@@ -115,6 +135,74 @@ In this module, then everything starts to come together. Your final assignment i
 * State a research question that can be answered using two publicly accessible datasets;
 * Create a visual using matplotlib that addresses your stated research question;
 * Justify how the visual addresses your research question;
+
+---
+---
+
+## Module 3 - Applied Machine Learning in Python
+
+Course Link: https://www.coursera.org/programs/universidade-de-sao-paulo-br-on-coursera-mvxtw/learn/python-machine-learning?specialization=data-science-python
+
+This course will introduce the learner to applied machine learning, focusing more on the techniques and methods than on the statistics behind these methods. The course will start with a discussion of how machine learning is different than descriptive statistics, and introduce the scikit learn toolkit through a tutorial. The issue of dimensionality of data will be discussed, and the task of clustering data, as well as evaluating those clusters, will be tackled. Supervised approaches for creating predictive models will be described, and learners will be able to apply the scikit learn predictive modelling methods while understanding process issues related to data generalizability (e.g. cross validation, overfitting). The course will end with a look at more advanced techniques, such as building ensembles, and practical limitations of predictive models. By the end of this course, students will be able to identify the difference between a supervised (classification) and unsupervised (clustering) technique, identify which technique they need to apply for a particular dataset and need, engineer features to meet that need, and write python code to carry out an analysis. 
+
+#### This Module main goal are:
+
+* Describe how machine learning is different than descriptive statistics;
+* Create and evaluate data clusters;
+* Explain different approaches for creating predictive models;
+* Build features that meet analysis needs;
+
+---
+
+### Week 1 - Fundamentals of Machine Learning - Intro to SciKit Learn
+
+This module introduces basic machine learning concepts, tasks, and workflow using an example classification problem based on the K-nearest neighbors method, and implemented using the scikit-learn library.
+
+#### Week learning objectives:
+
+* Understand basic machine learning concepts and workflow;
+* Distinguish between different types of machine learning tasks, based on examples of how they are applied to real-world problems;
+* Understand how a basic classification algorithm (k-nearest neighbors) learns and makes predictions;
+* Build and evaluate a basic k-nearest neighbors classifier on an example dataset using Python and scikit-learn;
+
+---
+
+### Week 2 - Supervised Machine Learning - Part 1
+
+This module delves into a wider variety of supervised learning methods for both classification and regression, learning about the connection between model complexity and generalization performance, the importance of proper feature scaling, and how to control model complexity by applying techniques like regularization to avoid overfitting. In addition to k-nearest neighbors, this week covers linear regression (least-squares, ridge, lasso, and polynomial regression), logistic regression, support vector machines, the use of cross-validation for model evaluation, and decision trees.
+
+#### Week learning objectives:
+
+* Understand how different supervised learning algorithms - in particular, those based on linear models - estimate their own parameters from data to make new predictions;
+* Understand the strengths and weaknesses of particular supervised learning methods in order to apply the right algorithm for a given task;
+* Apply specific supervised machine learning algorithms in Python with scikit-learn;
+* Recognize general principles of supervised machine learning that are common across algorithms, such as the connection between model complexity and generalization performance;
+* Apply techniques like regularization, feature scaling, and cross-validation to avoid common pitfalls like under- and overfitting;
+
+---
+
+### Week 3 - Evaluation
+
+This module covers evaluation and model selection methods that you can use to help understand and optimize the performance of your machine learning models. 
+
+#### Week learning objectives:
+
+* Understand why accuracy alone can be an inadequate metric for getting a more complete picture of a classifier's performance;
+* Understand the motivation and definition of a variety of important evaluation metrics in machine learning and how to interpret the results of using a given evaluation metric;
+* Optimize a machine learning algorithm using a specific evaluation metric appropriate for a given task;
+
+---
+
+### Week 4 - Supervised Machine Learning - Part 2
+
+This module covers more advanced supervised learning methods that include ensembles of trees (random forests, gradient boosted trees), and neural networks (with an optional summary on deep learning). You will also learn about the critical problem of data leakage in machine learning and how to detect and avoid it.
+
+#### Week learning objectives:
+
+* Understand how specific supervised learning algorithms - in particular, those based on decision trees and neural networks - estimate their own parameters from data to make new predictions;
+* Apply the right algorithm for a given task by understanding the strengths and weaknesses of additional supervised learning methods;
+* Apply additional types of supervised machine learning algorithms in Python with scikit-learn;
+* Recognize and avoid instances of data leakage;
 
 ---
 ---
