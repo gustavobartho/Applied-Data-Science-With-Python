@@ -199,3 +199,10 @@ This course will introduce the learner to text mining and text manipulation basi
 * Write regular expressions to find textual patterns.
 
 ---
+
+### Week 2 - Basic Natural Language Processing
+
+#### Week learning objectives:
+* Describe different natural language tasks.
+* Process free text through the NLTK toolkit to tag language constructs onto text.
+* Derive meaningful features from text.
