@@ -206,3 +206,22 @@ This course will introduce the learner to text mining and text manipulation basi
 * Describe different natural language tasks.
 * Process free text through the NLTK toolkit to tag language constructs onto text.
 * Derive meaningful features from text.
+
+---
+
+### Week 3 - Classification of text
+
+#### Week learning objectives:
+* Compare text classification to other classification approaches (covered in Applied Machine Learning in Python as well)
+* Describe the Naive Bayes and Support Vector Machine algorithms
+* Classify text in two classes using one of these approaches in Python
+* Identify and extract features from text and transform them into feature vectors for the machine learning models
+
+---
+
+### Week 4 - Topic Modeling
+
+#### Week learning objectives:
+* Apply WordNet-based similarity measures on text
+* Derive semantic topics from a large text collection using LDA
+* List and describe techniques for named entity recognition and other information extraction tasks.
