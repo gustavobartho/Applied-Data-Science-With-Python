@@ -225,3 +225,29 @@ This course will introduce the learner to text mining and text manipulation basi
 * Apply WordNet-based similarity measures on text
 * Derive semantic topics from a large text collection using LDA
 * List and describe techniques for named entity recognition and other information extraction tasks.
+
+---
+---
+
+## Module 5 - Applied Social Network Analysis in Python
+Course Link: https://www.coursera.org/programs/universidade-de-sao-paulo-br-on-coursera-mvxtw/learn/python-social-network-analysis
+
+This course will introduce the learner to network analysis through tutorials using the NetworkX library. The course begins with an understanding of what network analysis is and motivations for why we might model phenomena as networks. The second week introduces the concept of connectivity and network robustness. The third week will explore ways of measuring the importance or centrality of a node in a network. The final week will explore the evolution of networks over time and cover models of network generation and the link prediction problem. 
+
+#### This Module main goal are:
+* Represent and manipulate networked data using the NetworkX library.
+* Analyze the connectivity of a network.
+* Measure the importance or centrality of a node in a network
+
+---
+
+### Week 1- Why Study Networks and Basics on NetworkX
+Module One introduces you to different types of networks in the real world and why we study them. You'll learn about the basic elements of networks, as well as different types of networks. You'll also learn how to represent and manipulate networked data using the NetworkX library. The assignment will give you an opportunity to use NetworkX to analyze a networked dataset of employees in a small company.
+
+#### Week learning objectives:
+* Recognize and categorize real world networks.
+* Identify applications and important questions about networks that network science allows us to answer.
+* Determine what type of network is best suited to model real networked data.
+* Construct and manipulate networks of different types using different network classes and node and edge attributes in NetworkX.
+* Define bipartite graphs and describe related algorithms such as graph projections.
+* Manipulate bipartite graphs and related algorithms using NetworkX.
